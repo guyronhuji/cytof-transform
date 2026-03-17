@@ -36,19 +36,19 @@ Correction subtracts `γ_m × (f_i − median(f))` from each cell, anchoring at 
 ### From GitHub (recommended)
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/cytof-transform.git
+pip install git+https://github.com/guyronhuji/cytof-transform.git
 ```
 
 ### With UMAP support
 
 ```bash
-pip install "git+https://github.com/YOUR_USERNAME/cytof-transform.git#egg=cytof-transform[umap]"
+pip install "git+https://github.com/guyronhuji/cytof-transform.git#egg=cytof-transform[umap]"
 ```
 
 ### For development
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cytof-transform.git
+git clone https://github.com/guyronhuji/cytof-transform.git
 cd cytof-transform
 pip install -e ".[dev]"
 ```

@@ -34,9 +34,9 @@ umap = ["umap-learn>=0.5"]
 dev  = ["pytest>=7", "jupyter", "umap-learn>=0.5"]
 
 [project.urls]
-Homepage   = "https://github.com/YOUR_USERNAME/cytof-transform"
-Repository = "https://github.com/YOUR_USERNAME/cytof-transform"
-Issues     = "https://github.com/YOUR_USERNAME/cytof-transform/issues"
+Homepage   = "https://github.com/guyronhuji/cytof-transform"
+Repository = "https://github.com/guyronhuji/cytof-transform"
+Issues     = "https://github.com/guyronhuji/cytof-transform/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
